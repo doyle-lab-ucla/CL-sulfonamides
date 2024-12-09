@@ -1,5 +1,0 @@
-Name,smiles_solvent,inchi_solvent,DCE,EtOAc,MeCN,MeOH
-MeCN,CC#N,InChI=1S/C2H3N/c1-2-3/h1H3,0,0,1,0
-MeOH,CO,"InChI=1S/CH4O/c1-2/h2H,1H3",0,0,0,1
-DCE,ClCCCl,InChI=1S/C2H4Cl2/c3-1-2-4/h1-2H2,1,0,0,0
-EtOAc,CC(OCC)=O,"InChI=1S/C4H8O2/c1-3-6-4(2)5/h3H2,1-2H3",0,1,0,0
